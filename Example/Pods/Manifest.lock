@@ -1,0 +1,23 @@
+PODS:
+  - DemoCocoapodLib (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DemoCocoapodLib (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DemoCocoapodLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DemoCocoapodLib: 8e5602dd45d1c25b2172b39a16831a732813b6b6
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 8d696d3a1c5ff9d196649ecdbdc6797a56ef4336
+
+COCOAPODS: 1.4.0.beta.2

@@ -1,0 +1,6 @@
+framework module DemoCocoapodLib {
+  umbrella header "DemoCocoapodLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

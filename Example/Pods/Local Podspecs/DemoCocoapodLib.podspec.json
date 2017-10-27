@@ -1,0 +1,22 @@
+{
+  "name": "DemoCocoapodLib",
+  "version": "0.1.0",
+  "summary": "A short description of DemoCocoapodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/manhduydl/DemoCocoapodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "manhduydl": "manhduydl@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/manhduydl/DemoCocoapodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoCocoapodLib/Classes/**/*"
+}
